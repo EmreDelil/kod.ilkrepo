@@ -3,7 +3,7 @@
 
 Eğitim kapsamında açtığım ilk repo
 
-!(https://github.com/EmreDelil/kod.ilkrepo/blob/main/pictures/Screenshot_1.png)
+![Ödev fotoğrafı](https://github.com/EmreDelil/kod.ilkrepo/blob/main/pictures/Screenshot_1.png)
 
 ## Installation
 ---
